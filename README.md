@@ -1,4 +1,4 @@
 # ml4w-homework3
-## Your Favorite RayBan
+## Your Favorite RayBan 
 
-image(!demo.gif)
+![](demo.gif) RayBan sungglasses Virtual Try-On using Posnet and p5.js
